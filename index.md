@@ -8,7 +8,7 @@ O curso abrange os fundamentos do Bitcoin, sua relevância para os Direitos Huma
 
 # Público-Alvo
 
-**Mulheres** desenvolvedoras e estudantes de tecnologia. Participe das 3 noites e ganhe um [certificado de conclusão](https://www.notion.so/BDEV101-Fundamentos-do-Bitcoin-de16abe585454dd5bc95a6c02bf88bbe?pvs=21)**.**
+**Mulheres** desenvolvedoras e estudantes de tecnologia. Participe das 3 noites e ganhe um certificado de conclusão.**.**
 
 **Não sou mulher, como posso me envolver e apoiar o projeto?**
 
