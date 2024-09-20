@@ -8,7 +8,7 @@ O curso abrange os fundamentos do Bitcoin, sua relevância para os Direitos Huma
 
 # Público-Alvo
 
-**Mulheres** desenvolvedoras e estudantes de tecnologia. Participe das 3 noites e ganhe um certificado de conclusão.**.**
+**Mulheres** desenvolvedoras e estudantes de tecnologia. Participe das 3 noites e ganhe um certificado de conclusão.
 
 **Não sou mulher, como posso me envolver e apoiar o projeto?**
 
