@@ -32,17 +32,18 @@ O curso é voltado para mulheres que tenham pelo menos um interesse básico em t
 
 # **Syllabus**
 
-**Noite 1—15/10: Introdução ao Bitcoin e Sua Importância para os Direitos Humanos e Direitos das Mulheres**
+**Noite 1—29/10: Introdução ao Bitcoin e Sua Importância para os Direitos Humanos e Direitos das Mulheres**
 
 - História da rede Bitcoin e conceitos fundamentais.
 - Impacto socioeconômico.
+- Tecnologias de Liberdade
 
-**Noite 2—16/10: Operando com Bitcoin na Prática**
+**Noite 2—30/10: Operando com Bitcoin na Prática**
 
 - Segurança e armazenamento de bitcoins.
 - Realização e verificação de transações.
 
-**Noite 3—17/10: Introdução Técnica para Desenvolvedoras**
+**Noite 3—31/10: Introdução Técnica para Desenvolvedoras**
 
 - Conceitos básicos de contratos inteligentes no Bitcoin.
 - Introdução ao Bitcoin Script.
@@ -87,12 +88,22 @@ Para mais informações:
 
 [**O Modelo de Cebola para a Progressão de Carreira no Desenvolvimento Open Source de Bitcoin**](https://scalarschool.medium.com/o-modelo-de-cebola-para-o-desenvolvimento-bitcoin-open-source-98cf2514e140)
 
+# Nasa Space Apps Hackathon
+
+![Group 6.png](assets/nasaSpaceApps.png)
+
+# Por que o Bitcoin é uma Tecnologia de Liberdade? 
+
+Tecnologias de liberdade referem-se a ferramentas e inovações tecnológicas que promovem a autonomia individual, a privacidade e a descentralização do controle. Elas são desenhadas para devolver poder às mãos dos usuários, removendo intermediários que controlam ou monitoram o acesso a bens e informações. O Bitcoin é um exemplo poderoso de tecnologia de liberdade, oferecendo às pessoas uma maneira de proteger seus ativos e realizar transações sem depender de instituições centralizadas. No ecossistema do Bitcoin, existem integrações com outras tecnologias de liberdade como por exemplo ecash para transações financeiras privadas e Nostr, um protocolo de comunicação descentralizado e incensurável que, além das aplicações potenciais, tem servido como uma rede social alternativa em que as pessoas podem mandar satoshis umas às outras como forma de apreciação por seus conteúdos. 
+
+Programas focados na atração de mulheres para o ecossistema de tecnologias de liberdade não são apenas uma questão de equidade de gênero, mas também de melhorar a qualidade das soluções tecnológicas e ampliar seu impacto social. Diversidade de gênero em equipes de desenvolvimento já demonstrou, em diversas áreas da tecnologia, que a inclusão de perspectivas variadas leva à criação de soluções mais robustas, seguras e inovadoras. Mulheres que já estão ativamente desenvolvendo no ecossistema Bitcoin têm contribuído com inovações importantes, como o desenvolvimento de interfaces de carteiras mais acessíveis e melhorias em protocolos de segurança, oferecendo soluções que atendem às necessidades de um público mais amplo e variado.
+
+No campo da criptografia e descentralização, a diversidade de pensamentos é essencial para criar tecnologias que sejam verdadeiramente resilientes e universais. A ausência de mulheres neste espaço limita o potencial criativo e a capacidade de encontrar soluções que resolvam problemas reais enfrentados por diferentes comunidades ao redor do mundo. Quanto mais mulheres participarem ativamente no desenvolvimento de tecnologias descentralizadas, mais robustas, inclusivas e transformadoras essas soluções serão para a sociedade como um todo.
+
+Afinal, a liberdade tecnológica só é verdadeiramente alcançada quando todas as pessoas têm a oportunidade de participar de sua criação e usufruir de seus benefícios. Incluir mais mulheres no desenvolvimento de tecnologias de liberdade, como o Bitcoin, não apenas expande o impacto dessas tecnologias, mas também constrói um futuro mais igualitário, seguro e inovador para todos.
+
 # Licença
 
 Todos os materiais da Scalar School são produzidos sob a [licença MIT](https://www.mit.edu/~amini/LICENSE.md), exceto a marca.  
 
 ---
-
-# Nasa Space Apps Hackathon
-
-![Group 6.png](assets/nasaSpaceApps.png)
