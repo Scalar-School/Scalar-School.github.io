@@ -24,7 +24,7 @@ O curso é voltado para mulheres que tenham pelo menos um interesse básico em t
 
 # Horário
 
-19h20 às 20h30 (horário de Brasília)
+19h20 às 20h50 (horário de Brasília)
 
 # Vagas Limitadas com Inscrições Até
 
@@ -36,7 +36,7 @@ O curso é voltado para mulheres que tenham pelo menos um interesse básico em t
 
 - História da rede Bitcoin e conceitos fundamentais.
 - Impacto socioeconômico.
-- Tecnologias de Liberdade
+- Tecnologias de liberdade.
 
 **Noite 2—30/10: Operando com Bitcoin na Prática**
 
@@ -47,6 +47,7 @@ O curso é voltado para mulheres que tenham pelo menos um interesse básico em t
 
 - Conceitos básicos de contratos inteligentes no Bitcoin.
 - Introdução ao Bitcoin Script.
+- Avaliação valendo nota para o certificado.
 
 # Certificado de Conclusão
 
