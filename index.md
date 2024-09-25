@@ -103,6 +103,10 @@ No campo da criptografia e descentralização, a diversidade de pensamentos é e
 
 Afinal, a liberdade tecnológica só é verdadeiramente alcançada quando todas as pessoas têm a oportunidade de participar de sua criação e usufruir de seus benefícios. Incluir mais mulheres no desenvolvimento de tecnologias de liberdade, como o Bitcoin, não apenas expande o impacto dessas tecnologias, mas também constrói um futuro mais igualitário, seguro e inovador para todos.
 
+# Materiais De Apoio
+
+[Apresentação Stellar](https://docs.google.com/presentation/d/1HMkKrF3aDKOnokTXLTiuiK0U7mDoMEgTSb1pvedbuRU/edit?usp=sharing)
+
 # Licença
 
 Todos os materiais da Scalar School são produzidos sob a [licença MIT](https://www.mit.edu/~amini/LICENSE.md), exceto a marca.  
