@@ -67,7 +67,7 @@ Atualmente, lidera a Scalar School, capacitando mulheres em tecnologias Bitcoin 
 
 # Conheça a Board Member
 
-![Rachel](assets/boardmember.png)
+![Rachel](assets/boardmember.jpg)
 
 **Rachel Rybarczyk** é uma desenvolvedora altamente qualificada do protocolo Stratum V2, com seis anos de experiência na indústria de mineração de Bitcoin. Ela desempenhou papéis cruciais no suporte a diversas operações de mineração de Bitcoin em grande escala, onde projetou sistemas personalizados de gerenciamento de mineradores e energia. Rachel também é membro do conselho da Scalar School, uma iniciativa educacional voltada para empoderar mulheres no Sul Global por meio do ensino da tecnologia Bitcoin. Seu trabalho continua a influenciar tanto projetos de código aberto quanto avanços no setor privado, tornando-a uma figura significativa no espaço do Bitcoin.
 
