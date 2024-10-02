@@ -6,6 +6,10 @@ O curso abrange os fundamentos do Bitcoin, sua relevância para os Direitos Huma
 
 # [Inscreva-se agora!](https://forms.gle/WSA3WhHTvaGNKQ9U7) [Clique aqui para preencher o formulário de matrícula.](https://forms.gle/WSA3WhHTvaGNKQ9U7)
 
+# Patrocinadores
+
+Somos orgulhosamente financiadas pela Human Rights Foundation para que o curso possa ser oferecido gratuitamente. 
+
 # Público-Alvo
 
 **Mulheres** desenvolvedoras e estudantes de tecnologia. Participe das 3 noites e ganhe um certificado de conclusão.
@@ -112,6 +116,10 @@ Afinal, a liberdade tecnológica só é verdadeiramente alcançada quando todas 
 # Materiais De Apoio
 
 [Apresentação Stellar](https://docs.google.com/presentation/d/1HMkKrF3aDKOnokTXLTiuiK0U7mDoMEgTSb1pvedbuRU/edit?usp=sharing)
+
+# Powered By
+
+![HRF](assets/hrf.png)
 
 # Licença
 
