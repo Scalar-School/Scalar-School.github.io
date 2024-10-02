@@ -117,7 +117,7 @@ Afinal, a liberdade tecnológica só é verdadeiramente alcançada quando todas 
 
 [Apresentação Stellar](https://docs.google.com/presentation/d/1HMkKrF3aDKOnokTXLTiuiK0U7mDoMEgTSb1pvedbuRU/edit?usp=sharing)
 
-# Powered By
+# Orgulhosamente Financiadas Pela
 
 ![HRF](assets/hrf.png)
 
