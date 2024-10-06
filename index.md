@@ -99,10 +99,6 @@ Para mais informações:
 
 [**O Modelo de Cebola para a Progressão de Carreira no Desenvolvimento Open Source de Bitcoin**](https://scalarschool.medium.com/o-modelo-de-cebola-para-o-desenvolvimento-bitcoin-open-source-98cf2514e140)
 
-# Nasa Space Apps Hackathon
-
-![Group 6.png](assets/nasaSpaceApps.png)
-
 # Por que o Bitcoin é uma Tecnologia de Liberdade? 
 
 Tecnologias de liberdade referem-se a ferramentas e inovações tecnológicas que promovem a autonomia individual, a privacidade e a descentralização do controle. Elas são desenhadas para devolver poder às mãos dos usuários, removendo intermediários que controlam ou monitoram o acesso a bens e informações. O Bitcoin é um exemplo poderoso de tecnologia de liberdade, oferecendo às pessoas uma maneira de proteger seus ativos e realizar transações sem depender de instituições centralizadas. No ecossistema do Bitcoin, existem integrações com outras tecnologias de liberdade como por exemplo ecash para transações financeiras privadas e Nostr, um protocolo de comunicação descentralizado e incensurável que, além das aplicações potenciais, tem servido como uma rede social alternativa em que as pessoas podem mandar satoshis umas às outras como forma de apreciação por seus conteúdos. 
