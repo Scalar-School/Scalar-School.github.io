@@ -4,7 +4,7 @@
 
 O curso abrange os fundamentos do Bitcoin, sua relevância para os Direitos Humanos e os Direitos das Mulheres, práticas seguras de armazenamento de Bitcoin, execução e verificação de transações, e uma introdução aos conceitos básicos de contratos inteligentes e Bitcoin Script.
 
-# [Inscreva-se agora!](https://forms.gle/WSA3WhHTvaGNKQ9U7) [Clique aqui para preencher o formulário de matrícula.](https://forms.gle/WSA3WhHTvaGNKQ9U7)
+# [Inscreva-se agora! Clique aqui para preencher o formulário de matrícula.](https://forms.gle/WSA3WhHTvaGNKQ9U7)
 
 # Patrocinadores
 
