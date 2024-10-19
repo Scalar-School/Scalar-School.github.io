@@ -32,7 +32,7 @@ O curso é voltado para mulheres que tenham pelo menos um interesse básico em t
 
 # Vagas Limitadas com Inscrições Até
 
-12 de dezembro de 2024
+27 de outubro de 2024
 
 # **Syllabus**
 
