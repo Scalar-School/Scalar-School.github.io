@@ -24,7 +24,7 @@ O curso é voltado para mulheres que tenham pelo menos um interesse básico em t
 
 # Data
 
-16, 17 e 18 de dezembro de 2024
+29, 30 e 31 de outubro de 2024
 
 # Horário
 
