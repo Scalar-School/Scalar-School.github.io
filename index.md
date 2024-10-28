@@ -30,9 +30,9 @@ O curso é voltado para mulheres que tenham pelo menos um interesse básico em t
 
 19h20 às 20h50 (horário de Brasília)
 
-# Vagas Limitadas com Inscrições Até
+# Vagas Limitadas
 
-27 de outubro de 2024
+Quando preenchermos as vagas, iniciaremos uma lista de espera para a próxima turma. 
 
 # **Syllabus**
 
